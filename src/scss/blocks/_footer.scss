@@ -1,0 +1,14 @@
+.footer {
+  background-color: gold !important;
+  padding: 100px 0;
+  font-size: 38px;
+  text-align: left;
+  color: #fff;
+  text-align: center;
+}
+
+@media (max-width: 1200) {
+  .footer {
+    font-size: 32px;
+  }
+}
